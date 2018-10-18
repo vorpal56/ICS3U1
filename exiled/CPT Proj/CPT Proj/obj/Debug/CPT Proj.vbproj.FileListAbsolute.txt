@@ -1,0 +1,172 @@
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT_Proj.Form1.resources
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\AppData\Local\Temporary Projects\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+Z:\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe.config
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV4\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Tutorial.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel3.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel5.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj REV7\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel4.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level1Complete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level2Complete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel3.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level3Complete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel4.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level4Complete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel5.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level5Complete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Tutorial.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.TutorialComplete.resources
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Visual Studio 2008\Projects\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.CreditsLevel5.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.CreditsLevel5.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level1Complete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level2Complete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel3.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level3Complete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel4.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level4Complete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel5.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level5Complete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Tutorial.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.TutorialComplete.resources
+C:\Users\Anthony\Documents\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.CreditsLevel5.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level1Complete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level2Complete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel3.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level3Complete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel4.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level4Complete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel5.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level5Complete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Tutorial.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.TutorialComplete.resources
+C:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT Proj.exe
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT Proj.xml
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT Proj.pdb
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\bin\Debug\CPT Proj.exe
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\bin\Debug\CPT Proj.pdb
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\bin\Debug\CPT Proj.xml
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Credits.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.CreditsLevel5.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Help.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel1.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level1Complete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel2.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level2Complete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel3.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level3Complete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel4.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level4Complete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.frmLevel5.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Level5Complete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Resources.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.OpenScreen.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.Tutorial.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT_Proj.TutorialComplete.resources
+E:\Users\Anthony\Documents\Highschool\School GR.11\ICS3U1\CPT Proj COMPLETE - Copy\CPT Proj\CPT Proj\obj\Debug\CPT Proj.vbproj.GenerateResource.Cache
